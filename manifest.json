@@ -1,0 +1,12 @@
+{
+    "name": "Dummy Account",
+    "version": "1.0.0",
+    "description": "Generates a fake email and persona to exploit free trail benifits of websites",
+    "manifest_version": 3,
+    "author": "Jeremy Brown",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Dummy"
+    }
+}
+
